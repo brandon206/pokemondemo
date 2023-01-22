@@ -1,2 +1,0 @@
-# pokemondemo
-demo pokemon webapi
